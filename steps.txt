@@ -1,0 +1,4 @@
+Fork the project
+Clone the forked project
+Push the changes
+And raise PR
