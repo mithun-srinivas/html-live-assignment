@@ -1,0 +1,28 @@
+1. basic details
+    - name, email, phone no.,
+    - coding profile links
+    - linkdin link
+    - github link
+    - image
+
+2. objective
+    - I am a entry level frontend developer, I have strong foundation and knowledge of frontend technologies and I am excited to apply my skills in real world projects.
+
+3. projects
+    - e-commerce store
+    I created an ecommerce store using mern stack 
+    crud operation
+    auth using jwt
+    admin panel
+    payment gate way
+
+4. skills
+    - frintend - html, css, js , react, tailwind
+    - backend - node, express,mongodb,  jwt, api handling
+
+5. education
+    - bca from ignou
+    - 12th pcm
+
+6. achivement
+    - solving 100+ dsa problem
